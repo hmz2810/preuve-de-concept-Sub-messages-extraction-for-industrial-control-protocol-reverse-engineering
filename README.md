@@ -1,7 +1,7 @@
 # Proof of Concept (POC) : Extraction des Sous-Messages pour l'Ingénierie Inverse des Protocoles de Communication Industriels
 
 ## Description du projet
-Ce projet représente un **Proof of Concept (POC)** basé sur l'article de **Liu et al. (2022)** intitulé **"Sub-messages extraction for industrial control protocol reverse engineering"**. L'objectif est de démontrer la faisabilité d'extraction des **sous-messages** à partir de protocoles de communication industriels **inconnus** en utilisant des **méthodes statistiques**.
+Ce projet représente un **Proof of Concept (POC)** basé sur l'article de **Liu et al. (2022)** intitulé **"Sub-messages extraction for industrial control protocol reverse engineering"**. L'objectif est de démontrer la faisabilité d'extraction des **sous-messages** à partir de protocoles de communication industriels **inconnus** en utilisant des **méthodes SIEP**.
 
 Le projet propose une méthode pour :
 - **Segmenter** les messages capturés dans un protocole inconnu.
