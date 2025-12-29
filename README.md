@@ -11,7 +11,7 @@ Le projet propose une méthode pour :
 Cette approche **POC** vise à prouver qu'il est possible de réaliser une analyse **d'ingénierie inverse** sur des protocoles inconnus pour découvrir leur structure sans documentation préalable.
 
 ## Méthodologie
-Ce projet suit les étapes méthodologiques proposées par **Liu et al. (2022)**, avec quelques ajustements pour créer un **Proof of Concept** fonctionnel :
+Ce projet suit les étapes méthodologiques , avec quelques ajustements pour créer un **Proof of Concept** fonctionnel :
 
 1. **Identification de la séparation entre l'en-tête et les données** : L'entropie est utilisée pour détecter la frontière entre l'en-tête fixe et les données variables.
 2. **Analyse de la périodicité** des sous-messages via l'autocorrélation.
